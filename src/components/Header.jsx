@@ -43,7 +43,7 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-3">
             <img 
               src="/MHK logo1_new.svg" 
-              alt="MHK Tech Inc Logo" 
+              alt="MHK Tech Logo" 
               className="h-12 w-auto"
             />
           </Link>
