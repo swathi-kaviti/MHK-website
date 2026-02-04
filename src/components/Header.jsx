@@ -64,7 +64,7 @@ const Header = () => {
                 location.pathname === '/who-we-are' ? 'text-emerald-600' : 'text-slate-700'
               }`}
             >
-              Who We Are
+              WHO WE ARE
             </Link>
             
             {/* What We Do Dropdown */}
