@@ -123,7 +123,7 @@ const Header = () => {
                 location.pathname === '/contact' ? 'text-emerald-600' : 'text-slate-700'
               }`}
             >
-              Contact Us
+              CONTACT US
             </Link>
           </div>
 
