@@ -74,7 +74,7 @@ const Header = () => {
               onMouseLeave={() => setIsWhatWeDoOpen(false)}
             >
               <button className="text-sm font-medium text-slate-700 hover:text-emerald-600 transition-colors flex items-center py-2">
-                What We Do
+                WHAT WE DO
                 <svg
                   className={`ml-1 w-4 h-4 transition-transform ${isWhatWeDoOpen ? 'rotate-180' : ''}`}
                   fill="none"
