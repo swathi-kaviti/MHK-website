@@ -56,7 +56,7 @@ const Header = () => {
                 location.pathname === '/' ? 'text-emerald-600' : 'text-slate-700'
               }`}
             >
-              Home
+              HOME
             </Link>
             <Link
               to="/who-we-are"
